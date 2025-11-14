@@ -1,4 +1,4 @@
-Postal code;Municipality_NL
+postal_code;mun_name
 1000;Brussel
 1020;Brussel
 1030;Schaarbeek
@@ -37,7 +37,7 @@ Postal code;Municipality_NL
 1342;Ottignies-Louvain-la-Neuve
 1348;Ottignies-Louvain-la-Neuve
 1350;Orp-Jauche
-1357;H?l?cine
+1357;Helecine
 1360;Perwijs
 1367;Ramillies
 1370;Geldenaken
@@ -58,12 +58,12 @@ Postal code;Municipality_NL
 1457;Walhain
 1460;Itter
 1461;Itter
-1470;Genepin
-1471;Genepin
-1472;Genepin
-1473;Genepin
-1474;Genepin
-1476;Genepin
+1470;Genappe
+1471;Genappe
+1472;Genappe
+1473;Genappe
+1474;Genappe
+1476;Genappe
 1480;Tubeke
 1490;Court-Saint-Etienne
 1495;Villers-la-Ville
@@ -386,9 +386,9 @@ Postal code;Municipality_NL
 4100;Seraing
 4101;Seraing
 4102;Seraing
-4120;Neupr?
-4121;Neupr?
-4122;Neupr?
+4120;Neupre
+4121;Neupre
+4122;Neupre
 4130;Esneux
 4140;Sprimont
 4141;Sprimont
@@ -400,10 +400,10 @@ Postal code;Municipality_NL
 4171;Comblain-au-Pont
 4180;Hamoir
 4181;Hamoir
-4190;Ferri?res
+4190;Ferrieres
 4210;Burdinne
-4217;H?ron
-4218;H?ron
+4217;Heron
+4218;Heron
 4219;Wasseiges
 4250;Geer
 4252;Geer
@@ -424,8 +424,8 @@ Postal code;Municipality_NL
 4351;Remicourt
 4357;Donceel
 4360;Oerle
-4367;Crisn?e
-4400;Fl?malle
+4367;Crisnee
+4400;Flemalle
 4420;Saint-Nicolas
 4430;Ans
 4431;Ans
@@ -435,7 +435,7 @@ Postal code;Municipality_NL
 4452;Juprelle
 4453;Juprelle
 4458;Juprelle
-4460;Grce-Hollogne
+4460;Grece-Hollogne
 4470;Saint-Georges-sur-Meuse
 4480;Engis
 4500;Hoei
@@ -456,10 +456,10 @@ Postal code;Municipality_NL
 4607;Dalhem
 4608;Dalhem
 4610;Beyne-Heusay
-4620;Fl?ron
-4621;Fl?ron
-4623;Fl?ron
-4624;Fl?ron
+4620;Fleron
+4621;Fleron
+4623;Fleron
+4624;Fleron
 4630;Soumagne
 4631;Soumagne
 4632;Soumagne
@@ -487,9 +487,9 @@ Postal code;Municipality_NL
 4728;Kelmis
 4730;Raeren
 4731;Raeren
-4750;B?tgenbach
-4760;B?llingen
-4761;B?llingen
+4750;Butgenbach
+4760;Bullingen
+4761;Bullingen
 4770;Amel
 4771;Amel
 4780;Sankt Vith
@@ -510,9 +510,9 @@ Postal code;Municipality_NL
 4840;Welkenraedt
 4841;Welkenraedt
 4845;Jalhay
-4850;Plombi?res
-4851;Plombi?res
-4852;Plombi?res
+4850;Plombieres
+4851;Plombieres
+4852;Plombieres
 4860;Pepinster
 4861;Pepinster
 4870;Trooz
@@ -543,8 +543,8 @@ Postal code;Municipality_NL
 5032;Gembloux
 5060;Sambreville
 5070;Fosses-la-Ville
-5080;La Bruy?re
-5081;La Bruy?re
+5080;La Bruyere
+5081;La Bruyere
 5100;Namen
 5101;Namen
 5140;Sombreffe
@@ -552,7 +552,7 @@ Postal code;Municipality_NL
 5170;Profondeville
 5190;Jemeppe-sur-Sambre
 5300;Andenne
-5310;Eghez?e
+5310;Eghezee
 5330;Assesse
 5332;Assesse
 5333;Assesse
@@ -586,14 +586,14 @@ Postal code;Municipality_NL
 5523;Onhaye
 5524;Onhaye
 5530;Yvoir
-5537;Anh?e
-5540;Hasti?re
-5541;Hasti?re
-5542;Hasti?re
-5543;Hasti?re
-5544;Hasti?re
+5537;Anhee
+5540;Hastiere
+5541;Hastiere
+5542;Hastiere
+5543;Hastiere
+5544;Hastiere
 5550;Vresse-sur-Semois
-5555;Bi?vre
+5555;Bievre
 5560;Houyet
 5561;Houyet
 5562;Houyet
@@ -638,15 +638,15 @@ Postal code;Municipality_NL
 6110;Montigny-le-Tilleul
 6111;Montigny-le-Tilleul
 6120;Ham-sur-Heure-Nalinnes
-6140;Fontaine-l’Ev?que
-6141;Fontaine-l’Ev?que
-6142;Fontaine-l’Ev?que
+6140;Fontaine-lEveque
+6141;Fontaine-lEveque
+6142;Fontaine-lEveque
 6150;Anderlues
 6180;Courcelles
 6181;Courcelles
 6182;Courcelles
 6183;Courcelles
-6200;Ch?telet
+6200;Chatelet
 6210;Les Bons Villers
 6211;Les Bons Villers
 6220;Fleurus
@@ -654,8 +654,8 @@ Postal code;Municipality_NL
 6222;Fleurus
 6223;Fleurus
 6224;Fleurus
-6230;Pont-?-Celles
-6238;Pont-?-Celles
+6230;Pont-a-Celles
+6238;Pont-a-Celles
 6240;Farciennes
 6250;Aiseau-Presles
 6280;Gerpinnes
@@ -679,7 +679,7 @@ Postal code;Municipality_NL
 6542;Lobbes
 6543;Lobbes
 6560;Erquelinnes
-6567;Merbes-le-Ch?teau
+6567;Merbes-le-Chateau
 6590;Momignies
 6591;Momignies
 6592;Momignies
@@ -689,8 +689,8 @@ Postal code;Municipality_NL
 6600;Bastenaken
 6630;Martelange
 6637;Fauvillers
-6640;Vaux-sur-S?re
-6642;Vaux-sur-S?re
+6640;Vaux-sur-Sure
+6642;Vaux-sur-Sure
 6660;Houffalize
 6661;Houffalize
 6662;Houffalize
@@ -722,7 +722,7 @@ Postal code;Municipality_NL
 6741;Etalle
 6742;Etalle
 6743;Etalle
-6747;Saint-L?ger
+6747;Saint-Leger
 6750;Musson
 6760;Virton
 6761;Virton
@@ -751,13 +751,13 @@ Postal code;Municipality_NL
 6834;Bouillon
 6836;Bouillon
 6838;Bouillon
-6840;Neufch?teau
+6840;Neufchateau
 6850;Paliseul
 6851;Paliseul
 6852;Paliseul
 6853;Paliseul
 6856;Paliseul
-6860;L?glise
+6860;Leglise
 6870;Saint-Hubert
 6880;Bertrix
 6887;Herbeumont
@@ -786,7 +786,7 @@ Postal code;Municipality_NL
 6986;La Roche-en-Ardenne
 6987;Rendeux
 6990;Hotton
-6997;Erez?e
+6997;Erezee
 7000;Bergen
 7010;Bergen
 7011;Bergen
@@ -800,8 +800,8 @@ Postal code;Municipality_NL
 7032;Bergen
 7033;Bergen
 7034;Bergen
-7040;Qu?vy
-7041;Qu?vy
+7040;Quevy
+7041;Quevy
 7050;Jurbeke
 7060;Zinnik
 7061;Zinnik
@@ -809,9 +809,9 @@ Postal code;Municipality_NL
 7063;Zinnik
 7070;Le Roeulx
 7080;Frameries
-7090;’s Gravenbrakel
-7100;La Louvi?re
-7110;La Louvi?re
+7090;Gravenbrakel
+7100;La Louviere
+7110;La Louviere
 7120;Estinnes
 7130;Binche
 7131;Binche
@@ -838,8 +838,8 @@ Postal code;Municipality_NL
 7340;Colfontaine
 7350;Hensies
 7370;Dour
-7380;Qui?vrain
-7382;Qui?vrain
+7380;Quievrain
+7382;Quievrain
 7387;Honnelles
 7390;Quaregnon
 7500;Doornik
@@ -862,12 +862,12 @@ Postal code;Municipality_NL
 7542;Doornik
 7543;Doornik
 7548;Doornik
-7600;P?ruwelz
-7601;P?ruwelz
-7602;P?ruwelz
-7603;P?ruwelz
-7604;P?ruwelz
-7608;P?ruwelz
+7600;Peruwelz
+7601;Peruwelz
+7602;Peruwelz
+7603;Peruwelz
+7604;Peruwelz
+7608;Peruwelz
 7610;Rumes
 7611;Rumes
 7618;Rumes
@@ -887,7 +887,7 @@ Postal code;Municipality_NL
 7740;Pecq
 7742;Pecq
 7743;Pecq
-7750;Mont-de-l’Enclus
+7750;Mont-de-lEnclus
 7760;Celles
 7780;Komen-Waasten
 7781;Komen-Waasten
@@ -927,8 +927,8 @@ Postal code;Municipality_NL
 7941;Brugelette
 7942;Brugelette
 7943;Brugelette
-7950;Chi?vres
-7951;Chi?vres
+7950;Chievres
+7951;Chievres
 7970;Beloeil
 7971;Beloeil
 7972;Beloeil
